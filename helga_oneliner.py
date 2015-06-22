@@ -146,7 +146,8 @@ RESPONSES = {
     r'\w+ broke prod': (imgur('SuCGnum'),  # Anchorman: You ate the whole wheel of cheese?
                         imgur('sbQUDbF'),),  # fail boat
 
-    r'^indeed$': imgur('bQcbpki'),  # Leonardo DiCaprio in Django Unchained
+    r'^indeed$': (imgur('bQcbpki'),  # Leonardo DiCaprio in Django Unchained
+                  imgur('CRIcP'),),  # Teal'c from Stargate SG-1
 
     r'f(f{6}|7)u(u{11}|12)': 'http://i.minus.com/ibnfJRQi1h4z30.gif',  # Workaholics: FUUUUUUUUUUUUUU
 
