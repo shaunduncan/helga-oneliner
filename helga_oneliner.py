@@ -35,10 +35,6 @@ RESPONSES = {
 
     r'gem install': "ruby. not even once.",
 
-    r'^(logger|logs)\?$': "http://logger.ddtc.cmgdigital.com/",
-
-    r'^docs\?$': 'http://docs.cmgdigital.com/',
-
     r'\\m/': 'rock on',
 
     r'((beetle|betel)(geuse|juice)\s?){3}': "i'm the ghost with the most",
